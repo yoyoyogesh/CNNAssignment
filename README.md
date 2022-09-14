@@ -30,7 +30,8 @@ Vascular lesion
 - pandas - version 1.3.4
 - seaborn - version 0.11.2
 
-conclusion:
+**conclusion:**
+
 Accuracy on training data has increased by using Augmentor library
 
 Model is still overfitting
