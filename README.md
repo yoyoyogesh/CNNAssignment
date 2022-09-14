@@ -42,4 +42,4 @@ The Model can be further improved by tuning the hyperparameter
 
 ## Contact
 Assignment submitted by Yogesh Kolhe. 
-https://github.com/yoyoyogesh/CNNAssignment- feel free to contact me!
+https://github.com/yoyoyogesh/CNNAssignment feel free to contact me!
